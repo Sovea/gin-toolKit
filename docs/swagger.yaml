@@ -1,0 +1,11 @@
+info:
+  contact:
+    name: sovea
+  description: This is a toolKit for server of Gin.
+  license:
+    name: MIT License
+    url: https://opensource.org/licenses/MIT
+  title: toolKit
+  version: "1.0"
+paths: {}
+swagger: "2.0"
