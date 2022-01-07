@@ -13,5 +13,5 @@ These services include fasthttp, xrate, logrus, JWT, gomail, redis, sql, hashsal
 |            redis             |    service_redis/service_redis.go    |
 |             sql              |      service_sql/service_sql.go      |
 |           hashsalt           | service_hashsalt/service_hashsalt.go |
-| weixin(wecaht) authorization |   service_weixin/service_weixin.go   |
+| weixin(wechat) authorization |   service_weixin/service_weixin.go   |
 
